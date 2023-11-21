@@ -70,10 +70,10 @@
   <a href="https://t.me/goldenbutter1234/" target="_blank"><img src="https://img.shields.io/badge/telegram-25D366?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
  <a href="https://github.com/mitsukimiyagi39/" target="_blank"><img src="https://img.shields.io/badge/github-0077B5?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
  
-## GitHub Profile Trophy 🏆 
+<!-- ## GitHub Profile Trophy 🏆 
 <a href="https://github.com/mitsukimiyagi39/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Nahuel61920&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
-</a>
+</a> -->
  
 </div>
 
