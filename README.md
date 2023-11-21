@@ -65,10 +65,10 @@
 ##  Contacts :speech_balloon:
  
 <div>
-  <a href = "mailto:estebancarrizo619@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/nahuelcarrizolc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=5493815360966" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
- <a href="https://www.linkedin.com/in/esteban-nahuel-carrizo-69715422b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:miyagimitsuki39@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://join.skype.com/invite/qaajOaNy9IYj" target="_blank"><img src="https://img.shields.io/badge/-Skype-%23E4405F?style=for-the-badge&logo=skype&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/goldenbutter1234/" target="_blank"><img src="https://img.shields.io/badge/telegram-25D366?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
+ <a href="https://github.com/mitsukimiyagi39/" target="_blank"><img src="https://img.shields.io/badge/github-0077B5?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
  
 ## GitHub Profile Trophy 🏆 
 <a href="https://github.com/mitsukimiyagi39/github-profile-trophy">
