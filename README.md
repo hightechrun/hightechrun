@@ -51,7 +51,7 @@
   
 
 #### Odoo:
-  <img align="center" title="Odoo" alt="odoo" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.svg">
+  <img align="center" title="Odoo" alt="odoo" height="30" width="80" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.svg">
   
 #### Tools:
 <div>
