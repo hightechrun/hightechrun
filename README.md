@@ -51,7 +51,7 @@
   
 
 #### Odoo:
-  <img align="center" title="Odoo" alt="odoo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/odoo/odoo-original.svg">
+  <img align="center" title="Odoo" alt="odoo" height="30" width="40" src="https://www.iconfinder.com/icons/1012815/code_development_logo_odoo_icon">
   
 #### Tools:
 <div>
