@@ -78,10 +78,7 @@
  
 </div>
 
-
-<p align="center"><img src="animation.gif" width="35%"></p>
 <div style=" font-size: medium; color: #447ff7" align=center>
-
 
 <p align="center">
   <a href="https://github.com/greenforest39">
