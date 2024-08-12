@@ -2,7 +2,7 @@
 
 # Hello. 👋
 
-- 🔭 I specialize in Odoo and Full-Stack web development
+- 🔭 I specialize Full-Stack Blockchain development
 - 🖥️  Studying: Java <img title="Java" alt="Java" height="15" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 
 ##  GitHub Analytics ⚙️
@@ -34,7 +34,8 @@
   <img align="center" title="jQuery" alt="jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
   <img align="center" title="Typescript" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" title="React" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <img align="center" title="NextJS" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" title="NextJS" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  
 </div> 
   
 #### Back-end:
@@ -43,6 +44,7 @@
   <img align="center" title="Nodejs" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" title="Express" alt="express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
   <img align="center" title="Python" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  
 
 #### Database: 
   <img align="center" title="Mongo" alt="mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
@@ -50,8 +52,8 @@
   <img align="center" title="MySQL" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   
 
-#### Odoo:
-  <img align="center" title="Odoo" alt="odoo" height="30" width="80" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.svg">
+#### Blockchain:
+  <img align="center" title="Solidity" alt="Solidity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg">
   
 #### Tools:
 <div>
