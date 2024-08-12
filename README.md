@@ -69,10 +69,7 @@
 ##  Contacts :speech_balloon:
  
 <div>
-  <a href = "mailto:greenforest930319@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://join.skype.com/invite/qaajOaNy9IYj" target="_blank"><img src="https://img.shields.io/badge/-Skype-%23E4405F?style=for-the-badge&logo=skype&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/goldenbutter1234/" target="_blank"><img src="https://img.shields.io/badge/telegram-25D366?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
- <a href="https://github.com/greenforest39/" target="_blank"><img src="https://img.shields.io/badge/github-0077B5?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+  <a href="https://t.me/sevenstar0309/" target="_blank"><img src="https://img.shields.io/badge/telegram-25D366?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
  
 <!-- ## GitHub Profile Trophy 🏆 
 <a href="https://github.com/greenforest39/github-profile-trophy">
