@@ -80,11 +80,5 @@
 
 <div style=" font-size: medium; color: #447ff7" align=center>
 
-<p align="center">
-  <a href="https://github.com/greenforest39">
-    <img src="https://activity-graph.herokuapp.com/graph?username=greenforest39&theme=react-dark" />
-  </a>
-</p>
-
 </div>
 
