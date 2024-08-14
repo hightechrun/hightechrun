@@ -73,7 +73,7 @@
 ##  Contacts :speech_balloon:
  
 <div>
-  <a href="https://t.me/sevenstar0309/" target="_blank"><img src="https://img.shields.io/badge/telegram-25D366?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
+  <a href="https://t.me/hightechrun/" target="_blank"><img src="https://img.shields.io/badge/telegram-25D366?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
  
 <!-- ## GitHub Profile Trophy 🏆 
 <a href="https://github.com/greenforest39/github-profile-trophy">
